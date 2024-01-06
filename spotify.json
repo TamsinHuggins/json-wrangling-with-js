@@ -1,0 +1,1752 @@
+[
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebb5"
+    },
+    "track_name": "Blinding Lights",
+    "released_year": 2019,
+    "streams": {
+      "$numberLong": "3703895074"
+    },
+    "bpm": 171,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 50,
+      "energy": 80,
+      "mode": "Major",
+      "speechiness": 7,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebb6"
+    },
+    "track_name": "Shape of You",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "3562543890"
+    },
+    "bpm": 96,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 83,
+      "energy": 65,
+      "mode": "Minor",
+      "speechiness": 8,
+      "acousticness": 58
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebb7"
+    },
+    "track_name": "Someone You Loved",
+    "released_year": 2018,
+    "streams": {
+      "$numberLong": "2887241814"
+    },
+    "bpm": 110,
+    "artists": ["Lewis Capaldi"],
+    "song_attributes": {
+      "danceability": 50,
+      "energy": 41,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 75
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebb8"
+    },
+    "track_name": "Dance Monkey",
+    "released_year": 2019,
+    "streams": {
+      "$numberLong": "2864791672"
+    },
+    "bpm": 98,
+    "artists": ["Tones and I"],
+    "song_attributes": {
+      "danceability": 82,
+      "energy": 59,
+      "mode": "Minor",
+      "speechiness": 10,
+      "acousticness": 69
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebb9"
+    },
+    "track_name": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "released_year": 2018,
+    "streams": {
+      "$numberLong": "2808096550"
+    },
+    "bpm": 90,
+    "artists": ["Post Malone"],
+    "song_attributes": {
+      "danceability": 76,
+      "energy": 50,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 54
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebba"
+    },
+    "track_name": "One Dance",
+    "released_year": 2016,
+    "streams": {
+      "$numberLong": "2713922350"
+    },
+    "bpm": 104,
+    "artists": ["Drake"],
+    "song_attributes": {
+      "danceability": 77,
+      "energy": 63,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebbb"
+    },
+    "track_name": "STAY (with Justin Bieber)",
+    "released_year": 2021,
+    "streams": {
+      "$numberLong": "2665343922"
+    },
+    "bpm": 170,
+    "artists": ["Kid Laroi", "Jutin Bieber"],
+    "song_attributes": {
+      "danceability": 59,
+      "energy": 76,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebbc"
+    },
+    "track_name": "Believer",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "2594040133"
+    },
+    "bpm": 125,
+    "artists": ["Imagine Dragons"],
+    "song_attributes": {
+      "danceability": 77,
+      "energy": 78,
+      "mode": "Minor",
+      "speechiness": 11,
+      "acousticness": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebbd"
+    },
+    "track_name": "Closer",
+    "released_year": 2016,
+    "streams": {
+      "$numberLong": "2591224264"
+    },
+    "bpm": 95,
+    "artists": ["The Chainsmokers"],
+    "song_attributes": {
+      "danceability": 75,
+      "energy": 52,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 41
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebbe"
+    },
+    "track_name": "Starboy",
+    "released_year": 2016,
+    "streams": {
+      "$numberLong": "2565529693"
+    },
+    "bpm": 186,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 68,
+      "energy": 59,
+      "mode": "Major",
+      "speechiness": 28,
+      "acousticness": 16
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebbf"
+    },
+    "track_name": "Perfect",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "2559529074"
+    },
+    "bpm": 95,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 60,
+      "energy": 45,
+      "mode": "Major",
+      "speechiness": 2,
+      "acousticness": 16
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc0"
+    },
+    "track_name": "Heat Waves",
+    "released_year": 2020,
+    "streams": {
+      "$numberLong": "2557975762"
+    },
+    "bpm": 81,
+    "artists": ["Glass Animals"],
+    "song_attributes": {
+      "danceability": 76,
+      "energy": 53,
+      "mode": "Major",
+      "speechiness": 9,
+      "acousticness": 44
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc1"
+    },
+    "track_name": "As It Was",
+    "released_year": 2022,
+    "streams": {
+      "$numberLong": "2513188493"
+    },
+    "bpm": 174,
+    "artists": ["Harry Styles"],
+    "song_attributes": {
+      "danceability": 52,
+      "energy": 73,
+      "mode": "Minor",
+      "speechiness": 6,
+      "acousticness": 34
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc2"
+    },
+    "track_name": "Senorita",
+    "released_year": 2019,
+    "streams": {
+      "$numberLong": "2484812918"
+    },
+    "bpm": 117,
+    "artists": ["Shawn Mendes", "Camila Cabello"],
+    "song_attributes": {
+      "danceability": 76,
+      "energy": 52,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc3"
+    },
+    "track_name": "Say You Won't Let Go",
+    "released_year": 2016,
+    "streams": {
+      "$numberLong": "2420461338"
+    },
+    "bpm": 99,
+    "artists": ["James Arthur"],
+    "song_attributes": {
+      "danceability": 40,
+      "energy": 56,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 69
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc4"
+    },
+    "track_name": "lovely - Bonus Track (feat. Khalid)",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "2355719893"
+    },
+    "bpm": 115,
+    "artists": ["Billie Eilish", "Khalid"],
+    "song_attributes": {
+      "danceability": 35,
+      "energy": 30,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 93
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc5"
+    },
+    "track_name": "Watermelon Sugar",
+    "released_year": 2019,
+    "streams": {
+      "$numberLong": "2322580122"
+    },
+    "bpm": 95,
+    "artists": ["Harry Styles"],
+    "song_attributes": {
+      "danceability": 55,
+      "energy": 82,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 12
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc6"
+    },
+    "track_name": "Don't Start Now",
+    "released_year": 2019,
+    "streams": {
+      "$numberLong": "2303033973"
+    },
+    "bpm": 124,
+    "artists": ["Dua Lipa"],
+    "song_attributes": {
+      "danceability": 79,
+      "energy": 79,
+      "mode": "Minor",
+      "speechiness": 8,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc7"
+    },
+    "track_name": "Lucid Dreams",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "2288695111"
+    },
+    "bpm": 84,
+    "artists": ["Juice WRLD"],
+    "song_attributes": {
+      "danceability": 44,
+      "energy": 48,
+      "mode": "Minor",
+      "speechiness": 24,
+      "acousticness": 38
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc8"
+    },
+    "track_name": "Sweater Weather",
+    "released_year": 2012,
+    "streams": {
+      "$numberLong": "2282771485"
+    },
+    "bpm": 124,
+    "artists": ["The Neighbourhood"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 81,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebc9"
+    },
+    "track_name": "Thinking Out Loud",
+    "released_year": 2014,
+    "streams": {
+      "$numberLong": "2280566092"
+    },
+    "bpm": 79,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 78,
+      "energy": 45,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 47
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebca"
+    },
+    "track_name": "Photograph",
+    "released_year": 2014,
+    "streams": {
+      "$numberLong": "2236667932"
+    },
+    "bpm": 108,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 38,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 61
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebcb"
+    },
+    "track_name": "Something Just Like This (feat. Coldplay)",
+    "released_year": 2017,
+    "streams": {
+      "$numberLong": "2204080728"
+    },
+    "bpm": 103,
+    "artists": ["The Chainsmokers", "Coldplay"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 65,
+      "mode": "Minor",
+      "speechiness": 4,
+      "acousticness": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebcc"
+    },
+    "track_name": "Bohemian Rhapsody - Remastered 2011",
+    "released_year": 1975,
+    "streams": {
+      "$numberLong": "2197010679"
+    },
+    "bpm": 71,
+    "artists": ["Queen"],
+    "song_attributes": {
+      "danceability": 41,
+      "energy": 40,
+      "mode": "Minor",
+      "speechiness": 5,
+      "acousticness": 27
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebcd"
+    },
+    "track_name": "Shallow",
+    "released_year": 2018,
+    "streams": {
+      "$numberLong": "2159346687"
+    },
+    "bpm": 96,
+    "artists": ["Lady Gaga", "Bradley Cooper"],
+    "song_attributes": {
+      "danceability": 57,
+      "energy": 40,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 38
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebce"
+    },
+    "track_name": "Take Me To Church",
+    "released_year": 2013,
+    "streams": 2135158446,
+    "bpm": 129,
+    "artists": ["Hozier"],
+    "song_attributes": {
+      "danceability": 57,
+      "energy": 66,
+      "mode": "Minor",
+      "speechiness": 5,
+      "acousticness": 63
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebcf"
+    },
+    "track_name": "Circles",
+    "released_year": 2019,
+    "streams": 2132335812,
+    "bpm": 120,
+    "artists": ["Post Malone"],
+    "song_attributes": {
+      "danceability": 70,
+      "energy": 75,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 24
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd0"
+    },
+    "track_name": "Love Yourself",
+    "released_year": 2015,
+    "streams": 2123309722,
+    "bpm": 100,
+    "artists": ["Justin Bieber"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 38,
+      "mode": "Major",
+      "speechiness": 44,
+      "acousticness": 84
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd1"
+    },
+    "track_name": "All of Me",
+    "released_year": 2013,
+    "streams": 2086124197,
+    "bpm": 120,
+    "artists": ["John Legend"],
+    "song_attributes": {
+      "danceability": 42,
+      "energy": 26,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 92
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd2"
+    },
+    "track_name": "Counting Stars",
+    "released_year": 2013,
+    "streams": 2011464183,
+    "bpm": 122,
+    "artists": ["OneRepublic"],
+    "song_attributes": {
+      "danceability": 66,
+      "energy": 71,
+      "mode": "Minor",
+      "speechiness": 4,
+      "acousticness": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd3"
+    },
+    "track_name": "Riptide",
+    "released_year": 1975,
+    "streams": 2009094673,
+    "bpm": 102,
+    "artists": ["Vance Joy"],
+    "song_attributes": {
+      "danceability": 48,
+      "energy": 73,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 43
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd4"
+    },
+    "track_name": "Wake Me Up - Radio Edit",
+    "released_year": 2013,
+    "streams": 1970673297,
+    "bpm": 124,
+    "artists": ["Avicii"],
+    "song_attributes": {
+      "danceability": 53,
+      "energy": 78,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd5"
+    },
+    "track_name": "Can't Hold Us (feat. Ray Dalton)",
+    "released_year": 2011,
+    "streams": 1953533826,
+    "bpm": 146,
+    "artists": ["Macklemore", "Ryan Lewis"],
+    "song_attributes": {
+      "danceability": 63,
+      "energy": 93,
+      "mode": "Major",
+      "speechiness": 8,
+      "acousticness": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd6"
+    },
+    "track_name": "The Hills",
+    "released_year": 2015,
+    "streams": 1947371785,
+    "bpm": 136,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 36,
+      "energy": 57,
+      "mode": "Minor",
+      "speechiness": 8,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd7"
+    },
+    "track_name": "HUMBLE.",
+    "released_year": 2017,
+    "streams": 1929770265,
+    "bpm": 150,
+    "artists": ["Kendrick Lamar"],
+    "song_attributes": {
+      "danceability": 91,
+      "energy": 60,
+      "mode": "Minor",
+      "speechiness": 12,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd8"
+    },
+    "track_name": "One Kiss (with Dua Lipa)",
+    "released_year": 2017,
+    "streams": 1897517891,
+    "bpm": 124,
+    "artists": ["Calvin Harris", "Dua Lipa"],
+    "song_attributes": {
+      "danceability": 79,
+      "energy": 86,
+      "mode": "Minor",
+      "speechiness": 11,
+      "acousticness": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebd9"
+    },
+    "track_name": "good 4 u",
+    "released_year": 2021,
+    "streams": 1887039593,
+    "bpm": 166,
+    "artists": ["Olivia Rodrigo"],
+    "song_attributes": {
+      "danceability": 56,
+      "energy": 66,
+      "mode": "Minor",
+      "speechiness": 18,
+      "acousticness": 28
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebda"
+    },
+    "track_name": "drivers license",
+    "released_year": 2021,
+    "streams": 1858144199,
+    "bpm": 144,
+    "artists": ["Olivia Rodrigo"],
+    "song_attributes": {
+      "danceability": 59,
+      "energy": 43,
+      "mode": "Major",
+      "speechiness": 7,
+      "acousticness": 76
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebdb"
+    },
+    "track_name": "Demons",
+    "released_year": 2012,
+    "streams": 1840364617,
+    "bpm": 180,
+    "artists": ["Imagine Dragons"],
+    "song_attributes": {
+      "danceability": 33,
+      "energy": 71,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 20
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebdc"
+    },
+    "track_name": "Lose Yourself - Soundtrack Version",
+    "released_year": 2002,
+    "streams": 1829992958,
+    "bpm": 171,
+    "artists": ["Eminem"],
+    "song_attributes": {
+      "danceability": 70,
+      "energy": 73,
+      "mode": "Major",
+      "speechiness": 26,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebdd"
+    },
+    "track_name": "INDUSTRY BABY (feat. Jack Harlow)",
+    "released_year": 2021,
+    "streams": 1814349763,
+    "bpm": 150,
+    "artists": ["Lil Nas X", "Jack Harlow"],
+    "song_attributes": {
+      "danceability": 74,
+      "energy": 70,
+      "mode": "Minor",
+      "speechiness": 6,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebde"
+    },
+    "track_name": "Another Love",
+    "released_year": 2012,
+    "streams": 1813673666,
+    "bpm": 123,
+    "artists": ["Tom Odell"],
+    "song_attributes": {
+      "danceability": 45,
+      "energy": 54,
+      "mode": "Minor",
+      "speechiness": 4,
+      "acousticness": 70
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebdf"
+    },
+    "track_name": "Mr. Brightside",
+    "released_year": 2003,
+    "streams": 1806617704,
+    "bpm": 148,
+    "artists": ["The Killers"],
+    "song_attributes": {
+      "danceability": 35,
+      "energy": 93,
+      "mode": "Major",
+      "speechiness": 8,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe0"
+    },
+    "track_name": "Levitating (feat. DaBaby)",
+    "released_year": 2020,
+    "streams": 1802514301,
+    "bpm": 103,
+    "artists": ["Dua Lipa", "DaBaby"],
+    "song_attributes": {
+      "danceability": 70,
+      "energy": 83,
+      "mode": "Minor",
+      "speechiness": 6,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe1"
+    },
+    "track_name": "No Role Modelz",
+    "released_year": 2014,
+    "streams": 1791000570,
+    "bpm": 100,
+    "artists": ["J. Cole"],
+    "song_attributes": {
+      "danceability": 70,
+      "energy": 52,
+      "mode": "Minor",
+      "speechiness": 33,
+      "acousticness": 30
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe2"
+    },
+    "track_name": "Do I Wanna Know?",
+    "released_year": 2013,
+    "streams": 1788326445,
+    "bpm": 85,
+    "artists": ["Arctic Monkeys"],
+    "song_attributes": {
+      "danceability": 55,
+      "energy": 53,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 17
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe3"
+    },
+    "track_name": "Dakiti",
+    "released_year": 2020,
+    "streams": 1763363713,
+    "bpm": 110,
+    "artists": ["Bad Bunny"],
+    "song_attributes": {
+      "danceability": 73,
+      "energy": 57,
+      "mode": "Minor",
+      "speechiness": 5,
+      "acousticness": 40
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe4"
+    },
+    "track_name": "Memories",
+    "released_year": 2019,
+    "streams": 1759567999,
+    "bpm": 91,
+    "artists": ["Maroon 5"],
+    "song_attributes": {
+      "danceability": 77,
+      "energy": 32,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 84
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe5"
+    },
+    "track_name": "Yellow",
+    "released_year": 1999,
+    "streams": 1755214421,
+    "bpm": 173,
+    "artists": ["Chris Molitor"],
+    "song_attributes": {
+      "danceability": 43,
+      "energy": 66,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe6"
+    },
+    "track_name": "MONTERO (Call Me By Your Name)",
+    "released_year": 2020,
+    "streams": 1735441776,
+    "bpm": 179,
+    "artists": ["Lil Nas X"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 51,
+      "mode": "Minor",
+      "speechiness": 15,
+      "acousticness": 30
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe7"
+    },
+    "track_name": "There's Nothing Holdin' Me Back",
+    "released_year": 2016,
+    "streams": 1714490998,
+    "bpm": 122,
+    "artists": ["Shawn Mendes"],
+    "song_attributes": {
+      "danceability": 86,
+      "energy": 80,
+      "mode": "Major",
+      "speechiness": 6,
+      "acousticness": 36
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe8"
+    },
+    "track_name": "Mood (feat. Iann Dior)",
+    "released_year": 2020,
+    "streams": 1699402402,
+    "bpm": 91,
+    "artists": ["Iann Dior", "24kGoldn"],
+    "song_attributes": {
+      "danceability": 70,
+      "energy": 72,
+      "mode": "Minor",
+      "speechiness": 4,
+      "acousticness": 22
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebe9"
+    },
+    "track_name": "'Till I Collapse",
+    "released_year": 2002,
+    "streams": 1695712020,
+    "bpm": 171,
+    "artists": ["Eminem"],
+    "song_attributes": {
+      "danceability": 55,
+      "energy": 85,
+      "mode": "Major",
+      "speechiness": 20,
+      "acousticness": 7
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebea"
+    },
+    "track_name": "Dynamite",
+    "released_year": 2020,
+    "streams": 1692897992,
+    "bpm": 114,
+    "artists": ["BTS"],
+    "song_attributes": {
+      "danceability": 75,
+      "energy": 77,
+      "mode": "Minor",
+      "speechiness": 10,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebeb"
+    },
+    "track_name": "Smells Like Teen Spirit - Remastered 2021",
+    "released_year": 1991,
+    "streams": 1690192927,
+    "bpm": 117,
+    "artists": ["Nirvana"],
+    "song_attributes": {
+      "danceability": 52,
+      "energy": 91,
+      "mode": "Major",
+      "speechiness": 7,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebec"
+    },
+    "track_name": "Without Me",
+    "released_year": 2002,
+    "streams": 1687664027,
+    "bpm": 112,
+    "artists": ["Eminem"],
+    "song_attributes": {
+      "danceability": 92,
+      "energy": 66,
+      "mode": "Major",
+      "speechiness": 9,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebed"
+    },
+    "track_name": "When I Was Your Man",
+    "released_year": 2012,
+    "streams": 1661187319,
+    "bpm": 145,
+    "artists": ["Bruno Mars"],
+    "song_attributes": {
+      "danceability": 60,
+      "energy": 27,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 94
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebee"
+    },
+    "track_name": "Die For You",
+    "released_year": 2016,
+    "streams": 1647990401,
+    "bpm": 134,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 59,
+      "energy": 52,
+      "mode": "Minor",
+      "speechiness": 7,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebef"
+    },
+    "track_name": "Just The Way You Are",
+    "released_year": 2010,
+    "streams": 1641426668,
+    "bpm": 109,
+    "artists": ["Bruno Mars"],
+    "song_attributes": {
+      "danceability": 63,
+      "energy": 85,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf0"
+    },
+    "track_name": "In The End",
+    "released_year": 2000,
+    "streams": 1624165576,
+    "bpm": 105,
+    "artists": ["Linkin Park"],
+    "song_attributes": {
+      "danceability": 55,
+      "energy": 90,
+      "mode": "Minor",
+      "speechiness": 6,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf1"
+    },
+    "track_name": "The Scientist",
+    "released_year": 2002,
+    "streams": 1608164312,
+    "bpm": 146,
+    "artists": ["Coldplay"],
+    "song_attributes": {
+      "danceability": 56,
+      "energy": 44,
+      "mode": "Major",
+      "speechiness": 2,
+      "acousticness": 73
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf2"
+    },
+    "track_name": "Before You Go",
+    "released_year": 2019,
+    "streams": 1608045237,
+    "bpm": 112,
+    "artists": ["Lewis Capaldi"],
+    "song_attributes": {
+      "danceability": 45,
+      "energy": 60,
+      "mode": "Major",
+      "speechiness": 6,
+      "acousticness": 63
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf3"
+    },
+    "track_name": "I'm Not The Only One",
+    "released_year": 2014,
+    "streams": 1606986953,
+    "bpm": 82,
+    "artists": ["Sam Smith"],
+    "song_attributes": {
+      "danceability": 68,
+      "energy": 49,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 56
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf4"
+    },
+    "track_name": "Cold Heart - PNAU Remix",
+    "released_year": 2017,
+    "streams": 1605224506,
+    "bpm": 116,
+    "artists": ["Dua Lipa"],
+    "song_attributes": {
+      "danceability": 80,
+      "energy": 80,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 4
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf5"
+    },
+    "track_name": "Every Breath You Take - Remastered 2003",
+    "released_year": 1983,
+    "streams": 1593270737,
+    "bpm": 117,
+    "artists": ["The Police"],
+    "song_attributes": {
+      "danceability": 82,
+      "energy": 45,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 54
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf6"
+    },
+    "track_name": "Viva La Vida",
+    "released_year": 2008,
+    "streams": 1592909789,
+    "bpm": 138,
+    "artists": ["Coldplay"],
+    "song_attributes": {
+      "danceability": 49,
+      "energy": 62,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf7"
+    },
+    "track_name": "Save Your Tears",
+    "released_year": 2020,
+    "streams": 1591223784,
+    "bpm": 118,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 68,
+      "energy": 82,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf8"
+    },
+    "track_name": "Kiss Me More (feat. SZA)",
+    "released_year": 2021,
+    "streams": 1575467011,
+    "bpm": 111,
+    "artists": ["Doja Cat", "SZA"],
+    "song_attributes": {
+      "danceability": 77,
+      "energy": 66,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 30
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebf9"
+    },
+    "track_name": "Bad Habits",
+    "released_year": 2020,
+    "streams": 1555511105,
+    "bpm": 126,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 81,
+      "energy": 90,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 5
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebfa"
+    },
+    "track_name": "Sweet Child O' Mine",
+    "released_year": 1987,
+    "streams": 1553497987,
+    "bpm": 125,
+    "artists": ["Guns N' +B80Roses"],
+    "song_attributes": {
+      "danceability": 45,
+      "energy": 90,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebfb"
+    },
+    "track_name": "Locked Out Of Heaven",
+    "released_year": 2012,
+    "streams": 1481349984,
+    "bpm": 144,
+    "artists": ["Bruno Mars"],
+    "song_attributes": {
+      "danceability": 73,
+      "energy": 70,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebfc"
+    },
+    "track_name": "Payphone",
+    "released_year": 2012,
+    "streams": 1479264469,
+    "bpm": 110,
+    "artists": ["Maroon 5"],
+    "song_attributes": {
+      "danceability": 74,
+      "energy": 74,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebfd"
+    },
+    "track_name": "Take On Me",
+    "released_year": 1984,
+    "streams": 1479115056,
+    "bpm": 84,
+    "artists": ["a-ha"],
+    "song_attributes": {
+      "danceability": 57,
+      "energy": 90,
+      "mode": "Minor",
+      "speechiness": 5,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebfe"
+    },
+    "track_name": "Rolling in the Deep",
+    "released_year": 2010,
+    "streams": 1472799873,
+    "bpm": 105,
+    "artists": ["Adele"],
+    "song_attributes": {
+      "danceability": 73,
+      "energy": 76,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 13
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ebff"
+    },
+    "track_name": "Somebody That I Used To Know (feat. Kimbra)",
+    "released_year": 2011,
+    "streams": 1457139296,
+    "bpm": 129,
+    "artists": ["Gotye", "Kimbra"],
+    "song_attributes": {
+      "danceability": 86,
+      "energy": 52,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 54
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec00"
+    },
+    "track_name": "The Nights",
+    "released_year": 2014,
+    "streams": 1456081449,
+    "bpm": 126,
+    "artists": ["Avicii"],
+    "song_attributes": {
+      "danceability": 53,
+      "energy": 85,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec01"
+    },
+    "track_name": "Call Out My Name",
+    "released_year": 2018,
+    "streams": 1449799467,
+    "bpm": 134,
+    "artists": ["The Weeknd"],
+    "song_attributes": {
+      "danceability": 45,
+      "energy": 60,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 21
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec02"
+    },
+    "track_name": "All I Want for Christmas Is You",
+    "released_year": 1994,
+    "streams": 1449779435,
+    "bpm": 150,
+    "artists": ["Mariah Carey"],
+    "song_attributes": {
+      "danceability": 34,
+      "energy": 63,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 16
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec03"
+    },
+    "track_name": "Peaches",
+    "released_year": 2021,
+    "streams": 1445941661,
+    "bpm": 90,
+    "artists": ["Justin Bieber", "Daniel Caesar", "Giveon"],
+    "song_attributes": {
+      "danceability": 63,
+      "energy": 68,
+      "mode": "Major",
+      "speechiness": 18,
+      "acousticness": 38
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec04"
+    },
+    "track_name": "Me Porto Bonito",
+    "released_year": 2022,
+    "streams": 1440757818,
+    "bpm": 92,
+    "artists": ["Chencho Corleone"],
+    "song_attributes": {
+      "danceability": 91,
+      "energy": 71,
+      "mode": "Minor",
+      "speechiness": 8,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec05"
+    },
+    "track_name": "Adore You",
+    "released_year": 2019,
+    "streams": 1439191367,
+    "bpm": 99,
+    "artists": ["Harry Styles"],
+    "song_attributes": {
+      "danceability": 68,
+      "energy": 77,
+      "mode": "Major",
+      "speechiness": 5,
+      "acousticness": 2
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec06"
+    },
+    "track_name": "La Cancion",
+    "released_year": 2019,
+    "streams": 1435127549,
+    "bpm": 176,
+    "artists": ["J Balvin"],
+    "song_attributes": {
+      "danceability": 75,
+      "energy": 65,
+      "mode": "Major",
+      "speechiness": 32,
+      "acousticness": 15
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec07"
+    },
+    "track_name": "The Real Slim Shady",
+    "released_year": 2000,
+    "streams": 1424589568,
+    "bpm": 104,
+    "artists": ["Eminem"],
+    "song_attributes": {
+      "danceability": 95,
+      "energy": 66,
+      "mode": "Minor",
+      "speechiness": 6,
+      "acousticness": 3
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec08"
+    },
+    "track_name": "The Night We Met",
+    "released_year": 2015,
+    "streams": 1410088830,
+    "bpm": 174,
+    "artists": ["Lord Huron"],
+    "song_attributes": {
+      "danceability": 45,
+      "energy": 37,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 97
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec09"
+    },
+    "track_name": "Easy On Me",
+    "released_year": 2021,
+    "streams": 1406111294,
+    "bpm": 142,
+    "artists": ["Adele"],
+    "song_attributes": {
+      "danceability": 60,
+      "energy": 37,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 58
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0a"
+    },
+    "track_name": "Let Me Down Slowly",
+    "released_year": 2018,
+    "streams": 1374581173,
+    "bpm": 150,
+    "artists": ["Alec Benjamin"],
+    "song_attributes": {
+      "danceability": 65,
+      "energy": 55,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 73
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0b"
+    },
+    "track_name": "Beggin",
+    "released_year": 2017,
+    "streams": 1367810478,
+    "bpm": 134,
+    "artists": ["M��ne"],
+    "song_attributes": {
+      "danceability": 71,
+      "energy": 80,
+      "mode": "Minor",
+      "speechiness": 5,
+      "acousticness": 13
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0c"
+    },
+    "track_name": "Numb",
+    "released_year": 2003,
+    "streams": 1361425037,
+    "bpm": 110,
+    "artists": ["Linkin Park"],
+    "song_attributes": {
+      "danceability": 50,
+      "energy": 86,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0d"
+    },
+    "track_name": "Gangsta's Paradise",
+    "released_year": 1995,
+    "streams": 1357608774,
+    "bpm": 80,
+    "artists": ["Coolio"],
+    "song_attributes": {
+      "danceability": 63,
+      "energy": 61,
+      "mode": "Major",
+      "speechiness": 6,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0e"
+    },
+    "track_name": "Quevedo: Bzrp Music Sessions, Vol. 52",
+    "released_year": 2022,
+    "streams": 1356565093,
+    "bpm": 128,
+    "artists": ["Bizarrap"],
+    "song_attributes": {
+      "danceability": 62,
+      "energy": 78,
+      "mode": "Major",
+      "speechiness": 4,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec0f"
+    },
+    "track_name": "Blank Space",
+    "released_year": 2014,
+    "streams": 1355959075,
+    "bpm": 96,
+    "artists": ["Taylor Swift"],
+    "song_attributes": {
+      "danceability": 75,
+      "energy": 68,
+      "mode": "Major",
+      "speechiness": 6,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec10"
+    },
+    "track_name": "Woman",
+    "released_year": 2021,
+    "streams": 1329090101,
+    "bpm": 108,
+    "artists": ["Doja Cat"],
+    "song_attributes": {
+      "danceability": 82,
+      "energy": 76,
+      "mode": "Minor",
+      "speechiness": 9,
+      "acousticness": 9
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec11"
+    },
+    "track_name": "Flowers",
+    "released_year": 2023,
+    "streams": 1316855716,
+    "bpm": 118,
+    "artists": ["Miley Cyrus"],
+    "song_attributes": {
+      "danceability": 71,
+      "energy": 68,
+      "mode": "Major",
+      "speechiness": 7,
+      "acousticness": 6
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec12"
+    },
+    "track_name": "Pepas",
+    "released_year": 2021,
+    "streams": 1309887447,
+    "bpm": 130,
+    "artists": ["Farruko"],
+    "song_attributes": {
+      "danceability": 76,
+      "energy": 77,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 1
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec13"
+    },
+    "track_name": "Callaita",
+    "released_year": 2019,
+    "streams": 1304313953,
+    "bpm": 176,
+    "artists": ["Bad Bunny"],
+    "song_attributes": {
+      "danceability": 61,
+      "energy": 62,
+      "mode": "Major",
+      "speechiness": 31,
+      "acousticness": 60
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec14"
+    },
+    "track_name": "Shivers",
+    "released_year": 2021,
+    "streams": 1302184087,
+    "bpm": 141,
+    "artists": ["Ed Sheeran"],
+    "song_attributes": {
+      "danceability": 79,
+      "energy": 86,
+      "mode": "Major",
+      "speechiness": 9,
+      "acousticness": 28
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec15"
+    },
+    "track_name": "Heather",
+    "released_year": 2020,
+    "streams": 1301799902,
+    "bpm": 92,
+    "artists": ["Conan Gray"],
+    "song_attributes": {
+      "danceability": 47,
+      "energy": 43,
+      "mode": "Major",
+      "speechiness": 3,
+      "acousticness": 62
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec16"
+    },
+    "track_name": "I Wanna Be Yours",
+    "released_year": 2013,
+    "streams": 1297026226,
+    "bpm": 135,
+    "artists": ["Arctic Monkeys"],
+    "song_attributes": {
+      "danceability": 48,
+      "energy": 42,
+      "mode": "Minor",
+      "speechiness": 3,
+      "acousticness": 12
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec17"
+    },
+    "track_name": "Iris",
+    "released_year": 1998,
+    "streams": 1284942608,
+    "bpm": 156,
+    "artists": ["The Goo Goo Dolls"],
+    "song_attributes": {
+      "danceability": 32,
+      "energy": 72,
+      "mode": "Minor",
+      "speechiness": 4,
+      "acousticness": 0
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6599998700336efc5512ec18"
+    },
+    "track_name": "Danza Kuduro",
+    "released_year": 2010,
+    "streams": 1279434863,
+    "bpm": 130,
+    "artists": ["Don Omar"],
+    "song_attributes": {
+      "danceability": 47,
+      "energy": 92,
+      "mode": "Major",
+      "speechiness": 24,
+      "acousticness": 8
+    }
+  }
+]
